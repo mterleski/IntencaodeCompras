@@ -26,6 +26,9 @@ Os modelos foram avaliados com base em sua capacidade de prever corretamente a i
 
 1. Clone o repositório:
    git clone https://github.com/mterleski/IntencaodeCompras.git
+   
    cd repositorio
+   
    pip install -r requirements.txt
+   
    jupyter notebook nome_do_notebook.ipynb
